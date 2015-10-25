@@ -1,12 +1,14 @@
 # QuiCAR
 
-Android App combining the power of Quikr API and Google Maps API. Displays sellers geographically on a google map nearby. Users can search for a product.
+Map based visual take on the popular Quikr platform for classified advertising. Displays sellers geographically on a Google Map on the basis of proximity. Users can search for a product and brand.
 
 _Currently supports only cars_
 
 ### Screenshot
 
-![Screenshot](extra/screenshot.png)
+![Clusters of Ad](extra/clusters.png "Clusters of Ad")
+![Markers representing Ads](extra/markers.png "Markers")
+![Advertisement selection](extra/admap.png "Advertisement selection")
 
 ### Demo Youtube URL
 
