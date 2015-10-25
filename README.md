@@ -1,6 +1,6 @@
-ap## QuiCAR
+# QuiCAR
 
-> Android App combining the power of Quikr API and Google Maps API. Displays sellers geographically on a google map nearby. Users can search for a product.
+Android App combining the power of Quikr API and Google Maps API. Displays sellers geographically on a google map nearby. Users can search for a product.
 
 _Currently supports only cars_
 
@@ -28,10 +28,10 @@ The android application used by the users.
 
 ![Team](extra/team.jpg)
 
+Abhishek Kandoi
+
 Arpit Singla
 
 Punit Dhoot
 
 Dhaval Kapil
-
-Abhishek Kandoi
