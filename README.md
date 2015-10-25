@@ -1,6 +1,8 @@
 # QuiCAR
 
-Map based visual take on the popular Quikr platform for classified advertising. Displays sellers geographically on a Google Map on the basis of proximity. Users can search for a product and brand.
+ * Map based visual take on the popular Quikr platform for classified advertising.
+ * Displays sellers geographically on a Google Map on the basis of proximity.
+ * Users can search for ads based on a product and brand.
 
 _Currently supports only cars_
 
