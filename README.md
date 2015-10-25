@@ -4,13 +4,13 @@ Map based visual take on the popular Quikr platform for classified advertising. 
 
 _Currently supports only cars_
 
-### Screenshot
+## Screenshot
 
 ![Clusters of Ad](extra/clusters.png "Clusters of Ad")
 ![Markers representing Ads](extra/markers.png "Markers")
 ![Advertisement selection](extra/admap.png "Advertisement selection")
 
-### Demo Youtube URL
+## Demo Youtube URL
 
 [https://www.youtube.com/watch?v=81IXwKzI-zg](https://www.youtube.com/watch?v=81IXwKzI-zg)
 
